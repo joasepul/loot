@@ -167,7 +167,7 @@ Configuration is stored in `.loot/config.json`:
 
 Lower dimensions = faster indexing and search, slightly lower quality:
 
-- **768** (default): Best quality, ~1.5x slower
+- **768** (default), Best
 - **512**: Good balance
 - **256**: Fast, good for large codebases
 - **128**: Fastest, still surprisingly effective
